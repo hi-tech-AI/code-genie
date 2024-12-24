@@ -1,5 +1,5 @@
 
-# [<img src="readme-assets/logo.png"> React Portfolio](https://josesatine.github.io/) by Jose Satine
+# [<img src="readme-assets/logo.png"> React Portfolio](https://code-genie-alpha.vercel.app/) by Jose Satine
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
@@ -12,9 +12,9 @@ Key features:
 - Uses **Vite** for packaging.
 - Emails with **EmailJS** - no backend needed!
 
-## [Live Preview](https://josesatine.github.io/)
+## [Live Preview](https://code-genie-alpha.vercel.app/)
 
-Check out the live version of the template deployed **[here on GitHub Pages](https://josesatine.github.io/)**.
+Check out the live version of the template deployed **[here on GitHub Pages](https://code-genie-alpha.vercel.app/)**.
 
 ### 1. Base layout
 The layout uses a fixed central view with a left sidebar, adjusting perfectly across various monitor resolutions, from 4:3 to ultra-wide.
@@ -29,7 +29,7 @@ On mobile, the layout groups the portfolio sections into categories and transfor
 
 1. Clone the repo:
 ```
-git clone https://github.com/hi-tech-AI/portfolio
+git clone https://github.com/hi-tech-AI/code-genie
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
@@ -240,7 +240,7 @@ export default defineConfig({
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://josesatine.github.io/`, the correct base directory to set is `/react-portfolio-template/`.
+In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://code-genie-alpha.vercel.app/`, the correct base directory to set is `/react-portfolio-template/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
 
