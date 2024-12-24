@@ -1,0 +1,130 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        }
+    },
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-7.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "05/01/2020",
+                        "end": "03/16/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Junior Backend Developer**",
+                            "info": "TS Talent Solutions",
+                            "text": "<ul><li>Developed robust web applications using the Flask and Django framework, integrated with RESTful APIs, and implemented complex data processing pipelines.</li><li>Engaged in system architecture design, optimizing server load through clustering and load balancers.</li><li>Utilized AWS services to deploy applications, implemented automated backups, and ensured data security and compliance.</li><li>Created comprehensive API documentation and unit tests, improving code reliability and facilitating easier onboarding of new team members.</li><li>Developed various kinds of algorithms such as OCR algorithm, prediction algorithm and so on.</li><li>Participated in Agile sprints; actively contributed to sprint planning, daily stand-ups, and retrospectives to continuously improve development processes.</li></ul>",
+                            "tags": [
+                                "Python",
+                                "AI Algorithm",
+                                "AWS"
+                            ]
+                        },
+                        "es": {
+                            "title": "**Desarrolladora junior**",
+                            "info": "Soluciones de talento TS",
+                            "text": "<ul><li>Desarrollé aplicaciones web robustas utilizando el marco Flask y Django, integradas con API RESTful e implementé canales complejos de procesamiento de datos.</li><li>Participó en el diseño de la arquitectura del sistema, optimizando la carga del servidor a través de clusters y balanceadores de carga.</li><li>Utilicé los servicios de AWS para implementar aplicaciones, implementé copias de seguridad automatizadas y garanticé la seguridad y el cumplimiento de los datos.</li><li>Creó documentación API integral y pruebas unitarias, mejorando la confiabilidad del código y facilitando la incorporación de nuevos miembros del equipo.</li><li>Se han desarrollado diversos tipos de algoritmos, como el algoritmo OCR, el algoritmo de predicción, etc.</li><li>Participó en sprints ágiles; contribuyó activamente a la planificación de sprints, reuniones diarias y retrospectivas para mejorar continuamente los procesos de desarrollo.</li></ul>",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-3.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "dates": {
+                        "start": "04/05/2022",
+                        "end": "11/08/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Backend Developer, AI Engineer**",
+                            "info": "EYSS",
+                            "text": "<ul><li>Assisted in the development of backend services using Python and Node.js, contributing to the overall architecture of the applications.</li><li>Participated in multiple AI projects simultaneously, ensuring adherence to project timelines, budget constraints, and quality standards, leading to the successful delivery of projects within scope and on time.</li><li>Collaborated with cross-functional teams to analyze and implement system requirements, resulting in an increase in project deliveries on time by 20%.</li><li>Developed and optimized database queries in MySQL, improving application performance and enhancing user experience.</li><li>Worked closely with the QA team to create unit tests and integration tests, ensuring robust code quality and reliability.</li></ul>",
+                            "tags": [
+                                "JavaScript",
+                                "Python",
+                                "Node.js",
+                                "MySQL",
+                                "RPA"
+                            ]
+                        },
+                        "es": {
+                            "title": "**Desarrolladora backend, ingeniera de inteligencia artificial**",
+                            "info": "EYSS",
+                            "text": "<ul><li>Ayudó en el desarrollo de servicios backend utilizando Python y Node.js, contribuyendo a la arquitectura general de las aplicaciones.</li><li>Participó en varios proyectos de IA simultáneamente, asegurando el cumplimiento de los cronogramas del proyecto, las limitaciones presupuestarias y los estándares de calidad, lo que condujo a la entrega exitosa de proyectos dentro del alcance y a tiempo.</li><li>Colaboró ​​con equipos multifuncionales para analizar e implementar los requisitos del sistema, lo que resultó en un aumento en las entregas de proyectos a tiempo en un 20%.</li><li>Desarrollé y optimicé consultas de bases de datos en MySQL, mejorando el rendimiento de la aplicación y mejorando la experiencia del usuario.</li><li>Trabajó en estrecha colaboración con el equipo de control de calidad para crear pruebas unitarias y pruebas de integración, garantizando una calidad y confiabilidad sólidas del código.</li></ul>",
+                            "tags": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/place-8.png",
+                        "fa": "",
+                        "faColors": {
+                            "bg": "#111",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": "06/12/2024",
+                        "end": "10/17/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**AI & Backend Engineer**",
+                            "info": "Tenantster",
+                            "text": "<ul><li>Designed and implemented AI agents for efficient management and communication, enhancing user interactions and automating routine tasks, resulting in a 30% increase in user engagement.</li><li>Developed scalable backend systems using modern frameworks and technologies, ensuring optimal performance and reliability for the platform, which supported a growing user base.</li><li>Conducted data analysis to inform AI model training, utilizing machine learning algorithms to improve the accuracy and responsiveness of AI agents, leading to a significant reduction in response times.</li><li>Worked closely with cross-functional teams in an Agile environment, participating in sprint planning and reviews to deliver features on time and align project goals with business objectives.</li></ul>",
+                            "tags": [
+                                "Generative AI",
+                                "RAG",
+                                "Fine-Tuning",
+                                "Python",
+                                "JavaScript"
+                            ]
+                        },
+                        "es": {
+                            "title": "**Ingeniera de inteligencia artificial y backend**",
+                            "info": "Tenantster",
+                            "text": "<ul><li>Diseñé e implementé agentes de IA para una gestión y comunicación eficiente, mejorando las interacciones de los usuarios y automatizando las tareas rutinarias, lo que resultó en un aumento del 30% en la participación del usuario.</li><li>Desarrolló sistemas backend escalables utilizando marcos y tecnologías modernas, asegurando un rendimiento y confiabilidad óptimos para la plataforma, que respaldó una creciente base de usuarios.</li><li>Realizó análisis de datos para informar el entrenamiento del modelo de IA, utilizando algoritmos de aprendizaje automático para mejorar la precisión y la capacidad de respuesta de los agentes de IA, lo que llevó a una reducción significativa en los tiempos de respuesta.</li><li>Trabajó en estrecha colaboración con equipos multifuncionales en un entorno ágil, participando en la planificación y las revisiones de sprints para entregar funciones a tiempo y alinear los objetivos del proyecto con los objetivos comerciales.</li></ul>",
+                            "tags": [
+                                "Generative AI",
+                                "RAG",
+                                "Fine-Tuning",
+                                "Python",
+                                "JavaScript"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
