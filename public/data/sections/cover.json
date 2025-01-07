@@ -4,7 +4,7 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Jose Satine!**"
+            "title_long": "I'm <a href='https://www.linkedin.com/in/jose-satine1711'>**Jose Satine!**</a>"
         },
         "es": {
             "title": "¡Saludos!",
@@ -23,9 +23,7 @@
             },
             "locales": {
                 "en": {},
-                "es": {},
-                "fr": {},
-                "ko": {}
+                "es": {}
             },
             "items": [
                 {
