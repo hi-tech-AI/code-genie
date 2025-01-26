@@ -20,7 +20,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-7.png",
+                        "img": "images/pictures/ts-logo.png",
                         "fa": "",
                         "faColors": {
                             "bg": null,
@@ -52,7 +52,7 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/place-3.png",
+                        "img": "images/pictures/eyss-logo.png",
                         "fa": "",
                         "faColors": {
                             "bg": null,
@@ -86,7 +86,7 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/place-8.png",
+                        "img": "tenantster-logo.png",
                         "fa": "",
                         "faColors": {
                             "bg": "#111",
